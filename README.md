@@ -3,4 +3,10 @@
 This repository contains a sample MCP client to use with ScamWolf.
 It calls the `classify_text_get_response` tool to analyze a scam and get precise classification.
 
+## Usage
+
+```sh
+uv run src/mcp_client/main.py
+```
+
 Use and integrate ScamWolf in many different ways for free - Check out https://www.scamwolf.com !
